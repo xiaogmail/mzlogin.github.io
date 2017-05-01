@@ -2,6 +2,7 @@
 layout: post
 title: 测试帖
 categories: 无类别
+excerpt: 新建博客，Markdown 测试帖。
 ---
 
 Github Markdown 注意点（区别于简书的任性）：
