@@ -14,7 +14,7 @@ encoding: "utf-8"
 # 在_includes/side_polular_repo.html 中已全部注释，所以下面这条没用了。
 side_bar_repo_limit: 6
 github:
-    public_repositories: 
+#    public_repositories: 
 # ---------------- #
 #      Author      #
 # ---------------- #
