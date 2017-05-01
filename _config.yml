@@ -11,10 +11,7 @@ keywords: xiao, 晓
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 6
-github:
-# 关闭了右边热门仓库的加载；
-#    public_repositories: 
+side_bar_repo_limit: 0
 # ---------------- #
 #      Author      #
 # ---------------- #
