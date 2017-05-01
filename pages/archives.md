@@ -6,8 +6,6 @@ comments: true
 permalink: /archives/
 ---
 
-<h1>{{page.title}}</h1>
-<hr>
 <ul>
   {% for post in site.posts %}
 	{% unless post.next %}
