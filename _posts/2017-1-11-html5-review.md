@@ -2,7 +2,7 @@
 layout: post
 title: HTML 5 流水账
 categories: HTML
-description: 第二个不深不浅的坑，踩一踩。
+excerpt: 第二个不深不浅的坑，踩一踩。
 ---
 
 ![HTML5](http://upload-images.jianshu.io/upload_images/658453-18021a7df5734359.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

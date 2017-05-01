@@ -2,7 +2,7 @@
 layout: post
 title: 字符编码 总结整理
 categories: 编程相关
-: 在我的印象笔记里，有一个名为“编码问题”的文件夹，里面装满了泪水。。。<br><br><img src="http://upload-images.jianshu.io/upload_images/658453-cd6916bf7875499e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+excerpt: 在我的印象笔记里，有一个名为“编码问题”的文件夹，里面装满了泪水。。。<br><br><img src="http://upload-images.jianshu.io/upload_images/658453-cd6916bf7875499e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
 ---
 
 ### 引言

@@ -2,7 +2,7 @@
 layout: post
 title: Java 拾遗
 categories: Java
-description: Learn Java the hard way.
+excerpt: Learn Java the hard way.
 ---
 
 #### JVM
