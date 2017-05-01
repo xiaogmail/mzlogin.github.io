@@ -11,14 +11,14 @@ keywords: xiao, 晓
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
+# side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
 author: xiao
 organization: Whut & Hust
-organization_url: 
+# organization_url: 
 github_username: xiaogmail
 location: Wuhan, China
 email: xiaoxietao36@gmail.com
