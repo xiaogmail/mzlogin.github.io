@@ -27,14 +27,12 @@ permalink: /archives/
 		
 		<span style="padding-left: 15px"> </span>
 		
-		<div class="categories">
-			{% for cat in post.categories %}
-			<span class="meta-info">
-			  <span class="octicon octicon-file-directory"></span>
-			  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
-			</span>
-			{% endfor %}
-		</div>
+		{% for cat in post.categories %}
+		<span class="meta-info">
+		  <span class="octicon octicon-file-directory"></span>
+		  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
+		</span>
+		{% endfor %}
 	</li>
 
   {% endfor %}
