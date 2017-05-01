@@ -35,12 +35,11 @@ navs:
     label: 分类
 
   -
+    href: /archives/
+    label: 存档
+  -
     href: /wiki/
     label: 维基
-
-#  -
-#    href: /links/
-#    label: 链接
 
   -
     href: /about/
