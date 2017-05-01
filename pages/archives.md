@@ -19,7 +19,7 @@ permalink: /archives/
 	{% endunless %}
 
 	<li>
-		<time>
+		<time style="display:inline-block; width: 135px;">
 		{{ post.date | date:"%F" }} {{ post.date | date: "%a" }}.
 		</time>
 		<a class="title" href="{{ post.url }}">{{ post.title }}</a>&nbsp&nbsp&nbsp
