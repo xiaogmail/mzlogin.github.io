@@ -5,35 +5,7 @@ keywords: 存档
 comments: true
 permalink: /archives/
 ---
-<style>
-@media screen and (max-width: 770px) {
-    ul {
-		padding-left: 20px;
-		>h2 {
-			// font-size: 20px;
 
-			// margin: 0;
-			margin-left: -20px;
-		}
-		li {
-			margin: 20px 0;
-			time {
-				display: block;
-				width: auto;
-			}
-			.title {
-				display: block;
-				// font-size: 16px;
-			}
-			.categories {
-				// font-size: 12px;
-				padding-left: 0;
-				padding-right: 10px;
-			}
-		}
-	}
-}
-</style>
 <ul>
   {% for post in site.posts %}
 	{% unless post.next %}
