@@ -18,7 +18,7 @@ permalink: /archives/
 	  {% endif %}
 	{% endunless %}
 
-	<li>
+	<li style="padding-left: 15px">
 		<time style="display:inline-block; width: 135px;">
 		{{ post.date | date:"%F" }} {{ post.date | date: "%a" }}.
 		</time>
