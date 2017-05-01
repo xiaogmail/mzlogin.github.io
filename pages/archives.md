@@ -22,7 +22,7 @@ permalink: /archives/
 		<time style="display:inline-block; width: 135px;">
 		{{ post.date | date:"%F" }} {{ post.date | date: "%a" }}.
 		</time>
-		<a class="title" href="{{ post.url }}">{{ post.title }}</a>&nbsp&nbsp&nbsp
+		<a class="title" href="{{ post.url }}">{{ post.title }}</a>
 		{% for cat in post.categories %}
 		<span class="meta-info">
 		  <span class="octicon octicon-file-directory"></span>
